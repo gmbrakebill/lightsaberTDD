@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LightSaberTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-08-05T16:37:28" hostname="masons-mbp.lan" time="0.034">
+  <properties/>
+  <testcase name="testingCharge()" classname="LightSaberTest" time="0.012"/>
+  <testcase name="testUseCharge()" classname="LightSaberTest" time="0.001"/>
+  <testcase name="testRecharge()" classname="LightSaberTest" time="0.002"/>
+  <testcase name="testingColor()" classname="LightSaberTest" time="0.001"/>
+  <testcase name="testSerialNumber()" classname="LightSaberTest" time="0.001"/>
+  <testcase name="testMinutesRemaining()" classname="LightSaberTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
